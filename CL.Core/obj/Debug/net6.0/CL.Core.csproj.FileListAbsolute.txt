@@ -1,0 +1,12 @@
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\bin\Debug\net6.0\CL.Core.deps.json
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\bin\Debug\net6.0\CL.Core.dll
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\bin\Debug\net6.0\CL.Core.pdb
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.dll
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\refint\CL.Core.dll
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\CL.Core.pdb
+C:\Users\Bruno\source\repos\Consultorio_Legal\CL.Core\obj\Debug\net6.0\ref\CL.Core.dll
